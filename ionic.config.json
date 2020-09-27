@@ -1,0 +1,8 @@
+{
+  "name": "CarPartMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "0c7e4ba9"
+}
